@@ -1,5 +1,3 @@
-![Solved >> GNU/Linux unified logo <3 : r/linux](C:\Users\WuWei\OneDrive\文档\My-Dev-Projects\ziyouzhe-studio\README.assets\76KI_ztaLr9QvFD3AEtHDIHksWlHp4BXjFEGYdp3ZW0.png)
-
 # Hi👋 I am ziyouzhe-studio
 
 > An amateur computer enthusiast 💻
